@@ -1,0 +1,28 @@
+_repo: Coral-Reefs-Volcanic-Islands-South-American-Geology-Complete_4022
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: HTML file
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geology -- South America'
+- !lcsh 'Coral reefs and islands'
+- !lcc 'QE'
+- !lcsh 'Islands'
+- !lcsh 'Beagle Expedition (1831-1836)'
+- !lcsh 'Volcanoes'
+title: Coral Reefs; Volcanic Islands; South American Geology — Complete
+url: http://www.gutenberg.org/ebooks/4022
